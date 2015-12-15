@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   web technologies. I focus mostly on performance, scaling and building web a
   better place. You will find my low tolerance for bogus websites on Internet
   mentioned a lot here.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "blog" # the subpath of your site, e.g. /blog
 url: "http://vikramtiwari.com" # the base hostname & protocol for your site
 twitter_username: vikram_tiwari
 github_username:  vikramtiwari
