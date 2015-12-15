@@ -7,12 +7,13 @@
 
 # Site settings
 title: Vikram Tiwari - Blog
+mailText: Get in Touch
 email: vikramtheone1@gmail.com
+websiteName: Personal Website
+website: http://vikramtiwari.com
 description: > # this means to ignore newlines until "baseurl:"
-  I write about random things, mostly concerning technologies revolving around
-  web technologies. I focus mostly on performance, scaling and building web a
-  better place. You will find my low tolerance for bogus websites on Internet
-  mentioned a lot here.
+  This is where I write mostly about random things concerning technologies around
+  web while generally focusing on performance, scaling and usability.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.vikramtiwari.com" # the base hostname & protocol for your site
 twitter_username: vikram_tiwari
