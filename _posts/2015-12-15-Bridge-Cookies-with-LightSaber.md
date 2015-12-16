@@ -21,7 +21,7 @@ No matter what device you are using Chrome on, it has all the batteries included
 # Ability to sync devices in near real-time
 The use of WebRTC for sync, maintain connection and use that for all the actions. That too considering one of the devices is Mobile which might be on limited bandwidth.
 
-While these are the things that relate to you as a user there are various things that might be happening in the background as well:
+While these are the things that relate to you as a user there are various things that might be happening in the background as well:  
 - Pairing your desktop and mobile cookies to bridge you across devices  
 - Adding Star Wars to your persona to show you relevant info on google now  
 - Promoting Star Wars on both Desktop and Mobile at the same time  
