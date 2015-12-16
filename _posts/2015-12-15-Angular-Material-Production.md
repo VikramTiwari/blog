@@ -5,8 +5,6 @@ date:   2015-12-15 11:00:00 -0800
 categories: tech update
 ---
 
-# Angular Material is 1.0
-
 Congrats to Angular-Material team. Finally a stable version of [Angular Material](https://material.angularjs.org/latest/) is out. For the lovers of [Material Design](https://www.google.com/design/spec/material-design/introduction.html) and [Angular](https://angularjs.org/) this is a bliss.
 
 Various interesting features:  
