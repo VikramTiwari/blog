@@ -22,10 +22,10 @@ No matter what device you are using Chrome on, it has all the batteries included
 The use of WebRTC for sync, maintain connection and use that for all the actions. That too considering one of the devices is Mobile which might be on limited bandwidth.
 
 While these are the things that relate to you as a user there are various things that might be happening in the background as well:
-- Pairing your desktop and mobile cookies to bridge you across devices
-- Adding Star Wars to your persona to show you relevant info on google now
-- Promoting Star Wars on both Desktop and Mobile at the same time
-- Giving geeks one more tool to play and tinker with
-- Maybe you will get a free ticket to Movie as well. Maybe!
+- Pairing your desktop and mobile cookies to bridge you across devices  
+- Adding Star Wars to your persona to show you relevant info on google now  
+- Promoting Star Wars on both Desktop and Mobile at the same time  
+- Giving geeks one more tool to play and tinker with  
+- Maybe you will get a free ticket to Movie as well. Maybe!  
 
 Well! I tried, tried multiple times. But I guess the force is not strong with me. Go forth Jedi! Conquer the quest.
