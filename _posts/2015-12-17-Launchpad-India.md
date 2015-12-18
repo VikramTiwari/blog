@@ -4,7 +4,7 @@ title: Launchpad Accelerator and Indian Startups
 date: '2015-12-17 00:01:00 -0800'
 categories: startups
 ---
-In today's [Google for India event](http://www.forbes.com/sites/saritharai/2015/12/16/google-slated-for-massive-expansion-in-india-ceo-sundar-pichai-says/) there were various exciting news delivered. Few notables ones are giving free Wi-Fi at 100 railway stations and ramping up Android and other engineering capabilities in India. This comes with the fact that Google is planning massive expansion and its speculated ambition of becoming an ISP in India.
+In today's [Google for India event](http://www.forbes.com/sites/saritharai/2015/12/16/google-slated-for-massive-expansion-in-india-ceo-sundar-pichai-says/) there were various exciting news delivered. Few notables ones are giving free and unrestricted (unlike [Free Basics](https://developers.facebook.com/docs/internet-org)) Wi-Fi at 100 railway stations and ramping up Android and other engineering capabilities in India. This comes with the fact that Google is planning massive expansion and its speculated ambition of becoming an ISP in India.
 
 Google's Developers Relations team also announced two products which are focused at growing markets like India.
 
