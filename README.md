@@ -1,4 +1,4 @@
 # blog
-My Blog running on Jekyll on GitHub too! Everything is here. Sigh!
+My Blog using Jekyll and hosted on GitHub. Everything is here. Sigh!
 
-If you want to create your own blog, and host it on GitHub, go to [GitHub Pages](https://pages.github.com/).
+If you want to create your own blog, and host it freely on GitHub, refer to [GitHub Pages](https://pages.github.com/).
