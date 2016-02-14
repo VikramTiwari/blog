@@ -21,7 +21,7 @@ github_username:  vikramtiwari
 
 # Build settings
 markdown: kramdown
-
+github: [metadata]
 kramdown:
   input: GFM
   hard_wrap: false
@@ -29,3 +29,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   use_coderay: false
+gems:
+  - jekyll-coffeescript
+  - jekyll-paginate
