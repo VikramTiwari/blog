@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Team building, Learning and Space
-date: '2017-09-22 11:00:00 -0800'
+date: '2017-09-22 21:50:00 -0800'
 categories: TIL
 ---
 
